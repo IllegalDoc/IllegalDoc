@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @IllegalDoc
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Python
+- 👀 I’m interested in Python and Javascript
+- 🌱 I’m currently learning Js and Liquid Shopify
+- 💞️ I’m looking to collaborate on Shopify
 
 
 <!---
