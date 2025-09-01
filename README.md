@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @IllegalDoc
-- 👀 I’m interested in Python and Javascript
-- 🌱 I’m currently learning Js and Liquid Shopify
-- 💞️ I’m looking to collaborate on Shopify
+- 👀 I’m interested in React and React Native
+- 🌱 I’m currently learning TypeScript and Liquid Shopify
 
 
 <!---
