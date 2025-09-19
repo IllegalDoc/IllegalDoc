@@ -1,9 +1,14 @@
--👋 Hi, I’m Anes the IllegalDoc
--💻 I code in Python 🐍 & JavaScript ⚡
--⚛️ Building with React & React Native (Expo / bare)
--🛠️ Strong in Backend handling & APIs
--🚀 Passionate about crafting apps that scale
--🌱 I’m currently learning TypeScript and Liquid Shopify
+👋 Hi, I’m Anes the IllegalDoc
+
+💻 I code in Python 🐍 & JavaScript ⚡
+
+⚛️ Building with React & React Native (Expo / bare)
+
+🛠️ Strong in Backend handling & APIs
+
+🚀 Passionate about crafting apps that scale
+
+🌱 I’m currently learning TypeScript and Liquid Shopify
 
 
 <!---
